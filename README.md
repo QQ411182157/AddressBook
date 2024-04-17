@@ -1,7 +1,12 @@
 #### 源码有注释有文档
 
 #### 安卓原生java语法，sqlite数据库，点击头像进主页看更多作品
-
+ <img src='https://img.alicdn.com/imgextra/i4/1658540494/O1CN01OTEekz1FWIa5sqVEn_!!1658540494.jpg' alt='a19.jpg' /></br> 
+ <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01ZdK5zB1FWIa38Jl8I_!!1658540494.jpg' alt='a20.jpg' /></br> 
+ <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01ARKhSq1FWIa1IbtQX_!!1658540494.jpg' alt='a22.jpg' /></br> 
+ <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01EWsm4v1FWIa38JUW7_!!1658540494.jpg' alt='a24.jpg' /></br> 
+ <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01A8Oo2l1FWIa25B9Y7_!!1658540494.jpg' alt='a23.jpg' /></br> 
+ <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01DD7jcm1FWIa1M4aJm_!!1658540494.jpg' alt='a25.jpg' /></br>
 ### 观看更多作品
 
 #### 抖音
